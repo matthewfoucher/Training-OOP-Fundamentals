@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Acme.Common;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ACM.BL
 {
-    public class Customer : EntityBase
+    public class Customer : EntityBase, ILoggable
     {
         public Customer(): this(0)
         {
@@ -52,6 +53,9 @@ namespace ACM.BL
                 _lastName = value;
             }
         }
+
+        public string Log() =>
+            $"{CustomerId}: {FullName} Email: {EmailAddress} Status: {EntityState.ToString()}";
 
         public override string ToString() => FullName;
 

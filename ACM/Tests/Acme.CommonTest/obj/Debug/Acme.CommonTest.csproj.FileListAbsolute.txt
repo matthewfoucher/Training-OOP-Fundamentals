@@ -14,3 +14,5 @@ C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\Tests\Acme.CommonTest\
 C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CopyComplete
 C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.dll
 C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.pdb
+C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.dll
+C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\Tests\Acme.CommonTest\bin\Debug\ACM.BL.pdb
