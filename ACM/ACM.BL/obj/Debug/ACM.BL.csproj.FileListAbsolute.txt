@@ -4,3 +4,6 @@ C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\ACM.BL\obj\Debug\ACM.B
 C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
 C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\matt\Documents\src\Training\OOP Fundamentals\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
