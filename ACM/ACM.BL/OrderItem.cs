@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ACM
+namespace ACM.BL
 {
-    public class OrderItem
+    public class OrderItem : EntityBase
     {
         public OrderItem()
         {
@@ -45,7 +45,7 @@ namespace ACM
         /// Validates the order item data.
         /// </summary>
         /// <returns></returns>
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid = true;
 

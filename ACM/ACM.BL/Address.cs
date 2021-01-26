@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ACM
+namespace ACM.BL
 {
-    public class Address
+    public class Address : EntityBase
     {
         public Address()
         {
@@ -28,7 +28,7 @@ namespace ACM
         /// Validates the address data.
         /// </summary>
         /// <returns></returns>
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid = true;
 
